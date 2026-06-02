@@ -37,7 +37,7 @@
     }
     
     
-    function saveBestScore() {
+    function saveBestScore() { 
         try {
             localStorage.setItem('snakeBestScore', bestScore);
         } catch(e) {}
