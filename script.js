@@ -154,7 +154,7 @@
         ctx.arc(food.x * CELL_SIZE + CELL_SIZE/2 - 3, food.y * CELL_SIZE + CELL_SIZE/2 - 3, 2.5, 0, Math.PI*2);
         ctx.fill();
         
-        // Листик
+        
         ctx.fillStyle = '#6bcf3a';
         ctx.beginPath();
         ctx.moveTo(food.x * CELL_SIZE + 13, food.y * CELL_SIZE + 5);

@@ -1,12 +1,14 @@
+[![Maintainability](https://qlty.sh/gh/Danyaboss/projects/snake-game/maintainability.svg)](https://qlty.sh/gh/Danyaboss/projects/snake-game)
+
 # 🐍 Змейка — классическая игра
 
 Классическая аркадная игра «Змейка» на чистом JavaScript.  
 Игрок управляет змейкой, собирает еду и растет, стараясь не врезаться в стены или собственное тело.
 
 ## 🛠 Стек
-- HTML5
-- CSS3 (адаптив)
-- JavaScript (Canvas)
+- HTML
+- CSS 
+- JavaScript 
 
 ## 🚀 Как запустить локально
 1. Склонировать репозиторий
@@ -15,3 +17,4 @@
 
 ## 🔗 Деплой
 [Ссылка на рабочий сайт](https://danyaboss.github.io/snake-game/)
+
